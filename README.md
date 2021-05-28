@@ -1,2 +1,3 @@
 # Bugreport (shipping orders calculator)
-![изображение](https://user-images.githubusercontent.com/84504889/119128363-3ed7c980-ba3e-11eb-893a-343f0b1cb92c.png)
+![изображение](https://user-images.githubusercontent.com/84504889/119936708-42190b00-bf92-11eb-8802-9d46712b02c3.png)
+
